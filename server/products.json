@@ -1,0 +1,10 @@
+[
+  { "id": "p1", "name": "Pour-Over Kettle", "description": "Gooseneck kettle with thermometer", "category": "Brewing", "price": 4500, "stock": 8, "featured": true, "color": "#2f3e46" },
+  { "id": "p2", "name": "Ceramic Dripper", "description": "Single-cup cone dripper", "category": "Brewing", "price": 2200, "stock": 15, "featured": false, "color": "#e0e1dd" },
+  { "id": "p3", "name": "Burr Grinder", "description": "40 grind settings, quiet motor", "category": "Grinders", "price": 12900, "stock": 3, "featured": true, "color": "#6b705c" },
+  { "id": "p4", "name": "Paper Filters (100)", "description": "Unbleached cone filters", "category": "Supplies", "price": 699, "stock": 50, "featured": false, "color": "#ddbea9" },
+  { "id": "p5", "name": "House Blend Beans 12oz", "description": "Chocolatey medium roast", "category": "Coffee", "price": 1499, "stock": 30, "featured": true, "color": "#7f5539" },
+  { "id": "p6", "name": "Ethiopia Yirgacheffe 12oz", "description": "Floral light roast", "category": "Coffee", "price": 1899, "stock": 0, "featured": false, "color": "#b08968" },
+  { "id": "p7", "name": "Digital Scale", "description": "0.1 g precision with timer", "category": "Brewing", "price": 3400, "stock": 2, "featured": false, "color": "#353535" },
+  { "id": "p8", "name": "Travel Tumbler", "description": "Leak-proof 12oz insulated", "category": "Supplies", "price": 2800, "stock": 12, "featured": false, "color": "#3a5a40" }
+]
